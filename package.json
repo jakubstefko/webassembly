@@ -1,0 +1,14 @@
+{
+  "name": "webassembly",
+  "version": "1.0.0",
+  "description": "POC of injecting preassembled files from C into website",
+  "main": "server.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Jakub Stefko",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
